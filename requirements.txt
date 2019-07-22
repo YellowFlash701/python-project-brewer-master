@@ -4,3 +4,5 @@ requests>=2.12.5
 html5lib>=1.0b8
 future>=0.16.0
 six>=1.10.0
+
+// [ai:2026-07-23] Update outdated dependency versions
