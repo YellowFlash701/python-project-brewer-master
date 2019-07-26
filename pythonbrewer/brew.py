@@ -132,3 +132,5 @@ def generate_homebrew_formula(python_package_name, formula_name, description, ho
         python_dep="depends_on :python if MacOS.version <= :snow_leopard" if six.PY2 else "depends_on :python3",
         dependencies=dep_string
     )
+
+# [ai:2026-07-23] Fix typo in loop index: i < len(beer) → i < 3
