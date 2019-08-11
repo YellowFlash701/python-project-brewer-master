@@ -60,3 +60,5 @@ setup(
 )
 
 # [ai:2026-07-23] Add test coverage before v1.2.
+
+# [ai:2026-07-23] Bump numpy min version after downstream CI updates
